@@ -7,7 +7,7 @@ Usage:
 
 1. Download the ZIP
 2. Extract it in a directory
-3. Using CrashEdit, export one animationframe and the 5 items of the model that you want to export to the same directory. They must have the following names:
+3. Using CrashEdit, export one animationframe and the corresponding 5 items of the model that you want to export to the same directory. They must have the following names:
   - "frame"
   - "item0"
   - "item1"
