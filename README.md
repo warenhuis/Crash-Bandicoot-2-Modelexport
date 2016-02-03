@@ -21,4 +21,9 @@ Usage:
 
 Important future improvements include:
 - More accurate vertexcoloring
+- More accurate UV mapping
 - 6-item model support
+
+New findings and suggestions are always welcome, so feel free to make a new issue on this repository
+
+  - warenhuis
