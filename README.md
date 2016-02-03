@@ -1,5 +1,5 @@
 # Crash-Bandicoot-2-Modelexport
-This is an unofficial and experimental tool for the exporting of models of Crash Bandicoot 2 and possibly Crash Bandicoot 3 in the future. For now, the tool is very primitive, depends on CrashEdit and only works for models that consist out of 5 items.
+This is an unofficial and experimental tool for exporting models of Crash Bandicoot 2 and possibly Crash Bandicoot 3 in the future. For now, the tool is very primitive, depends on CrashEdit and only works for models that consist out of 5 items.
 
 Usage:
 
