@@ -3,6 +3,8 @@ This is an unofficial and experimental tool for exporting models of Crash Bandic
 
 Usage:
 
+0. Download CrashEdit if you don't have it already (github.com/ughman/CrashEdit)
+
 1. Download the ZIP
 2. Extract it in a directory
 3. Using CrashEdit, export one animationframe and the 5 items of the model that you want to export to the same directory. They must have the following names:
