@@ -16,3 +16,7 @@ Usage:
 4. Run the executable (and view the data if you are interested)
 5. Press Enter and give up the filename, press 'OK'
 7. Enjoy your model!
+
+Important future improvements include:
+- More accurate vertexcoloring
+- 6-item model support
