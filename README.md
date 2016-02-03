@@ -5,8 +5,7 @@ Usage:
 
 0. Download CrashEdit if you don't have it already (github.com/ughman/CrashEdit)
 
-1. Download the ZIP (Crash-Bandicoot-2-Modelexport)
-2. Extract the ZIP in a directory
+1. Download the ZIP (Crash-Bandicoot-2-Modelexport) and extract the ZIP in a directory
 3. Using CrashEdit, export one animationframe and the corresponding 5 items of the model that you want to export to the same directory. They must have the following names:
   - "frame"
   - "item0"
