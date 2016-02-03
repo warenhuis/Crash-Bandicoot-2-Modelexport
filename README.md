@@ -26,4 +26,4 @@ Important future improvements include:
 
 New findings and suggestions are always welcome, so feel free to make a new issue on this repository
 
-  - warenhuis
+warenhuis
